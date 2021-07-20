@@ -6,3 +6,4 @@ Daftar kata - kata oke yang dapat digunakan:
 - okok
 - Okey
 - Okay
+- uwokey
